@@ -1,4 +1,4 @@
-# Efficiently loading associations with JDBC, Hibernate and EclipseLink
-What is the best way to load relational data — JDBC or JPA?
+# The optimal way to include dates in JSON
+What is faster Jackson or GSON
 
-Sample code for my post https://marian-caikovski.medium.com/efficiently-loading-associations-with-jdbc-hibernate-and-eclipselink-20ee88584938 about transformation of relational data into Java classes
+Sample code for my post https://marian-caikovski.medium.com/the-optimal-way-to-include-dates-in-json-2220c2a355a8 comparing performance of Jackson and GSON used to serialize dates
